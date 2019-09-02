@@ -1,8 +1,8 @@
 # Site
 title: Efua Akonor
-description: Stylish, Two-Column Jekyll Theme
+description: Software & Data Science Research Assistant
 url: https://eakonor.github.io/
-#logo: halve.png                                       # Site logo
+logo: halve.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
